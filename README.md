@@ -57,4 +57,4 @@ yarn dev
 
 <p align="center">I hope you enjoy ! 😄</p>
 
-<h5 align="center">By: Shank7 🤍</h5>
+<h5 align="center">By: Gabriel Cacharo 🤍</h5>
